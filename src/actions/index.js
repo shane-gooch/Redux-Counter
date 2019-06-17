@@ -21,4 +21,5 @@ export const decrement = count => {
     type: 'DECREMENT',
     payload: count - 1
   }
+
 };
